@@ -46,7 +46,7 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 ### 📱 Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" />
+  <img height="48" src="https://cdn.iconscout.com/icon/free/png-256/free-ionic-logo-icon-svg-download-png-2945013.png" />
 </p>
 
 ### 🧩 CMS & Website Builders
