@@ -2,7 +2,7 @@
 Author: Oussama BOUHOUCH (OsmBHC)
 -->
 
-<h1 align="center">Hi 👋🏻, I'm Oussama Bouhouch</h1>
+<h1 align="center">Hi 👋🏻, I'm Oussama BOUHOUCH</h1>
 <h3 align="center">Software Engineer | Big Data • AI • Cloud • Full‑Stack</h3>
 
 <p align="center">
