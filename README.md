@@ -26,7 +26,7 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 
 - 🎓 Engineering Student – Big Data & Cloud Computing
 - 📍 Casablanca, Morocco
-- 🔍 Interested in **AI systems, distributed architectures & DevOps**
+- 🔍 Interested in **Software Engineering, Data Engineering & Data Science, AI, Cloud and DevOps**
 - 🚀 Actively looking for a **PFE / Pre‑hire Internship**
 
 ---
@@ -40,7 +40,7 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,scss,tailwind,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,scss,bootstrap,tailwind,js,ts" />
 </p>
 
 ### 📱 Mobile Development
@@ -48,6 +48,12 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
   <img src="https://skillicons.dev/icons?i=java" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" />
 </p>
+
+### 🧩 CMS & Website Builders
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
 
 ### ⚙️ Backend & APIs
 <p>
@@ -78,7 +84,20 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,github,cloudflare" />
+</p>
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
+  <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuVjFUXlbBHVGb_1mdmUdlo5H9Y1BhxN3-w&s" />
+  <img height="48" src="https://help.apple.com/assets/677C4E6E32D21764F50A6645/677C4E721A15F191F209F6BC/en_US/97f5f4dfe6df84d78caacff68ec63538.png" />
+</p>
+
+### 🧰 Development Environments & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Xcode_26_icon.png" />
 </p>
 
 ---
