@@ -75,11 +75,11 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 ### 📊 Big Data & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,elasticsearch,grafana" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Superset-logo.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" />
+  <img height="48" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAiZAAZAA0" />
+  <img height="48" src="https://images.icon-icons.com/2699/PNG/512/apache_hadoop_logo_icon_169586.png" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/71/AirflowLogo.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/apache-airflow.webp" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -90,7 +90,7 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 ### 🎨 Design & Creative Tools
 <p>
   <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
-  <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuVjFUXlbBHVGb_1mdmUdlo5H9Y1BhxN3-w&s" />
+  <img height="48" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" />
   <img height="48" src="https://help.apple.com/assets/677C4E6E32D21764F50A6645/677C4E721A15F191F209F6BC/en_US/97f5f4dfe6df84d78caacff68ec63538.png" />
 </p>
 
