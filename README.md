@@ -21,7 +21,7 @@ Author: Oussama BOUHOUCH (OsmBHC)
 
 ## 👨🏻‍💻 About Me
 
-I'm a **Software Engineering student** specializing in **Big Data & Cloud Computing** at **ENSET Mohammedia**.  
+I'm a **Software Engineer** specializing in **Big Data & Cloud Computing**, currently completing my engineering studies at **ENSET Mohammedia**.  
 Passionate about building **scalable systems**, **data‑driven solutions**, and **intelligent applications**, I enjoy working at the intersection of **software engineering, AI, and cloud technologies**.
 
 - 🎓 Engineering Student – Big Data & Cloud Computing
