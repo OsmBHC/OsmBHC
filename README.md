@@ -27,7 +27,6 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 - 🎓 Engineering Student – Big Data & Cloud Computing
 - 📍 Casablanca, Morocco
 - 🔍 Interested in **Software Engineering, Data Engineering & Data Science, AI, Cloud and DevOps**
-- 🚀 Actively looking for a **PFE / Pre‑hire Internship**
 
 ---
 
@@ -105,8 +104,8 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsmBHC&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmBHC&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsmBHC&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsmBHC&theme=tokyonight" height="160" />
 </p>
 
 ---
