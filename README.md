@@ -104,8 +104,19 @@ Passionate about building **scalable systems**, **data‑driven solutions**, and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsmBHC&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsmBHC&theme=tokyonight" height="160" />
+  <img
+    src="https://streak-stats.demolab.com?user=OsmBHC&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OsmBHC&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
